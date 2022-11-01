@@ -7,5 +7,5 @@ Languages Used
 - CSS
 - JavaScript
 
--[solution Site]()
--[Live Site]()
+-[Solution Site](https://github.com/ABQ4539/Password-generator)
+-[Live Site](https://abq4539.github.io/Password-generator/)
